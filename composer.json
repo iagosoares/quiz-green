@@ -1,0 +1,14 @@
+{
+    "name": "iagojt/estudo_php",
+    "autoload": {
+        "psr-4": {
+            "dev\\": "src/app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iago soares"
+        }
+    ],
+    "require": {}
+}
